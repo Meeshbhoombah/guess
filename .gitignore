@@ -1,2 +1,8 @@
+# Vim
+*.swo
+*.swp
+
 /target
+Cargo.lock
 **/*.rs.bk
+
